@@ -1,0 +1,25 @@
+body {
+    background-color: #CFF5E7;
+    font-size: 18px;
+    font-style: italic;
+}
+hr {
+    background-color: white;
+    border-style:dotted none none none;
+    border-color:grey;
+    border-width: 5px;
+    height: none;
+    width: 20%;
+}
+h1{
+    color: #59C1BD;
+}
+h3{
+    color: #59C1BD;
+}
+h2{
+    color: #59C1BD;
+}
+img{
+    height: 225px;
+}
