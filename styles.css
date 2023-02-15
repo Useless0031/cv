@@ -5,8 +5,8 @@ body {
 }
 hr {
     background-color: white;
-    border-style:dotted none none none;
-    border-color:grey;
+    border-style:inset;
+    border-color:rgb(2, 2, 2);
     border-width: 5px;
     height: none;
     width: 20%;
